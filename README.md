@@ -73,16 +73,16 @@ Check GitLab status:
 sudo gitlab-ctl status
 ```
 
-![image](https://hackmd.io/_uploads/HJUj5sj4Wg.png)
+![image](/uplodes/Gitlab-status.png)
 
 ##  9. Access GitLab Web Interface
 
 Open your browse
 http://gitlab.172.16.50.5.nip.io
-![image](https://hackmd.io/_uploads/BkyVTij4Ze.png)
+![image](/uplodes/gitlab-inteface.png)
 
 
-Default Admin User
-**Username:** root
+Default Admin User <br> 
+**Username:** root <br> 
 **Password:** cat /etc/gitlab/initial_root_password
-![image](https://hackmd.io/_uploads/HykBisoV-l.png)
+![image](/uplodes/root-password.png)
