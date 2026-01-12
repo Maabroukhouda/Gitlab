@@ -79,7 +79,7 @@ sudo gitlab-ctl status
 
 Open your browse
 http://gitlab.172.16.50.5.nip.io
-![image](/uplodes/gitlab-inteface.png)
+![image](/uplodes/gitlab-interface.png)
 
 
 Default Admin User <br> 
