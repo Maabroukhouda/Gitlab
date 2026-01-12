@@ -80,6 +80,7 @@ sudo gitlab-ctl status
 Open your browse
 http://gitlab.local/
 <br> 
+<br> 
 ![image](/uplodes/gitlab-interface.png)
 
 
