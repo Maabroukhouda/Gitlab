@@ -29,7 +29,7 @@ sudo hostnamectl set-hostname gitlab
 exec bash
 ```
 Edit hosts file  **/etc/hosts** and add 
-`127.0.0.1 gitlab.172.16.50.5.nip.io`
+`127.0.0.1 gitlab.local`
 
 
 ## 4. Install Required Dependencies
@@ -60,7 +60,7 @@ curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.de
 ## 7. Install GitLab Community Edition
 Set your GitLab external URL before installation:
 ```  
-sudo EXTERNAL_URL="http://gitlab.172.16.50.5.nip.io" apt install gitlab-ce -y 
+sudo EXTERNAL_URL="http://gitlab.local" apt install gitlab-ce -y 
 ```
 
 ## 8. Initial GitLab Configuration
