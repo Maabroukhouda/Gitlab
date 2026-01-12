@@ -79,6 +79,7 @@ sudo gitlab-ctl status
 
 Open your browse
 http://gitlab.local/
+<br> 
 ![image](/uplodes/gitlab-interface.png)
 
 
