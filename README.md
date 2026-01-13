@@ -78,10 +78,8 @@ sudo gitlab-ctl status
 ##  9. Access GitLab Web Interface
 
 Open your browse
-http://gitlab.local/
-<br> 
-<br> 
-![image](/uplodes/gitlab-interface.png)
+http://gitlab.172.16.50.5.nip.io
+![image](/uplodes/gitlab-inteface.png)
 
 
 Default Admin User <br> 
