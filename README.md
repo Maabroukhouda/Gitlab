@@ -78,7 +78,9 @@ sudo gitlab-ctl status
 ##  9. Access GitLab Web Interface
 
 Open your browse
-http://gitlab.local/
+``` 
+http://gitlab.local/users/sign_in
+```
 ![image](/uplodes/gitlab-inteface.png)
 
 
