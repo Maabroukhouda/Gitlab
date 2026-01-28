@@ -83,7 +83,7 @@ http://gitlab.local/users/sign_in
 ```
 
 ![image](/uplodes/gitlab-interface.png)
->>>>>>> 25881ec (v1)
+
 
 
 Default Admin User <br> 
