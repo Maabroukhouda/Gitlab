@@ -81,9 +81,6 @@ Open your browse
 ``` 
 http://gitlab.local/users/sign_in
 ```
-<<<<<<< HEAD
-![image](/uplodes/gitlab-inteface.png)
-=======
 
 ![image](/uplodes/gitlab-interface.png)
 >>>>>>> 25881ec (v1)
