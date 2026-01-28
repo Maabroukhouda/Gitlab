@@ -16,10 +16,8 @@ This ensures only root can access the certificate files.
 
 Run the following command:
 ```
-sudo openssl req -x509 -nodes -days 365 \
-  -newkey rsa:2048 \
-  -keyout /etc/gitlab/ssl/gitlab.local.key \
-  -out /etc/gitlab/ssl/gitlab.local.crt
+sudo openssl req -newkey rsa:2048 -nodes -keyout gitlab.local.key \
+-x509 -days 365 -out gitlab.local.crt
 ```
 
 During the prompt
